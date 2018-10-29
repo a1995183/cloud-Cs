@@ -1,0 +1,2 @@
+webpackJsonp([6],{JXTs:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("首页····")])},staticRenderFns:[]};var i=n("VU/8")({name:"index"},r,!1,function(e){n("QRpp")},"data-v-4b227d70",null);t.default=i.exports},QRpp:function(e,t){}});
+//# sourceMappingURL=6.8d8cbe1e4195264c9557.js.map
